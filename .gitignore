@@ -1,0 +1,7 @@
+*.o
+*.irx
+*.elf
+*.a
+
+.vscode/*
+
